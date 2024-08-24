@@ -1,13 +1,13 @@
 package com.example;
+import nitin.*;
 
 public class Main {
 
-	public static void main(String[] args1) {
-		System.out.println("Hello bro");
-	}
-	
-	//exploring method overloading
-	public static void main() {
-		System.out.println("Hello bro");
+	public static void main(String[] args) {
+//		System.out.println("Hello bro");
+//		SampleClass sampleNitin = new SampleClass();
+//		sampleNitin.helper();
+		TestClass test = new TestClass();
+		test.helper();
 	}
 }
