@@ -1,6 +1,6 @@
 package nitin;
 
-public class SampleClass {
+public class SampleClass{
 	@SuppressWarnings("removal")
 	public void helper() {
 		Integer a = new Integer(2);

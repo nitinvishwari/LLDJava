@@ -12,5 +12,8 @@ public class TestClass {
 		if(s3 == s4) {
 			System.out.println("object are also same");
 		}
+		
+		Integer i = 1;
+		System.out.println(i.getClass());
 	}
 }
